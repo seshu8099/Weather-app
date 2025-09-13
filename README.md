@@ -42,4 +42,4 @@ Create a new branch
 
 Commit your changes
 
-Open a Pull Request<img width="1510" height="772" alt="image" src="https://github.com/user-attachments/assets/0b367d1f-43ec-47f1-b836-ed857163b7e0" />
+Open a Pull Request
