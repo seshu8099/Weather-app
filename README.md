@@ -1,3 +1,5 @@
+<img width="947" height="625" alt="image" src="https://github.com/user-attachments/assets/9062240b-7e9b-4772-a4af-cb910b052f0d" />
+
 # 🌦️ Weather App
 
 A simple and responsive weather application built with **React** and **Vite**.  
@@ -43,3 +45,4 @@ Create a new branch
 Commit your changes
 
 Open a Pull Request
+
